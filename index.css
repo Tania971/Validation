@@ -87,6 +87,10 @@ body{
     outline: 2px solid #ef4444;
 }
 
+.show-information {
+    display: block;
+}
+
 @media (min-width:640px){
     #form{
         width: 60%;
